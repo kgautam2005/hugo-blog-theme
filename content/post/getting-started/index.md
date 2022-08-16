@@ -41,8 +41,8 @@ categories:
 ## Overview
 
 1. i have no idea how to get to the cms editor.....
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+2. i have lowkey nervy for school but hopefully it will be a fun year
+3. i have to many things to do today to prep for school tmrw
 
 ## Get Started
 
